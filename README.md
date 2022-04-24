@@ -1,2 +1,5 @@
 # Flappy-Bird-Simulator
-@apayeras
+## Authors: \
+Antoni Payeras Munar @apayeras \
+Sergi Moreno Pérez @sergimoreno \
+Daniel Suau Vallés
